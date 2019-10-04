@@ -1,2 +1,6 @@
 # Default ignored files
 /workspace.xml
+/$PRODUCT_WORKSPACE_FILE$
+/misc.xml
+/modules.xml
+/vcs.xml
